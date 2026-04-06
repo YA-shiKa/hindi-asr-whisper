@@ -1,8 +1,13 @@
-
 data/
-outputs/
 
 *.csv
+
+!outputs/fixed.csv
+!outputs/wer_results.csv
+
+outputs/baseline.csv
+outputs/final_with_wer.csv
+outputs/finetuned.csv
 
 models/
 __pycache__/
