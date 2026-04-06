@@ -1,0 +1,8 @@
+pandas
+requests
+librosa
+soundfile
+datasets
+transformers
+torch
+jiwer

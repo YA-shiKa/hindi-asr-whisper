@@ -1,0 +1,12 @@
+
+data/
+outputs/
+
+*.csv
+
+models/
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
